@@ -58,6 +58,11 @@ a.cta-button:last-child:hover {
   background-color: #121212;
 }
 
+.navbar-brand img {
+  width: 40px;
+  height: 40px;
+}
+
 /* Menu Toggle */
 .navbar-toggler {
   height: 40px;
