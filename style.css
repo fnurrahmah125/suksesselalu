@@ -763,7 +763,6 @@ footer .h2-title {
   /* Row 2 */
   .row-2 .logo {
     display: flex;
-    align-items: center;
     gap: 1rem;
   }
 
